@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maheshn1821.github.io/awesome-resume-resources/sitemap.xml
