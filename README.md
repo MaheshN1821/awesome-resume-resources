@@ -49,6 +49,8 @@ Features:
 
 ## Recommended Resources
 
+- [ResumeAI free ATS checker](https://withresumeai.com/ats-checker) — 3 checks/day anonymous, 10/day with a free account  
+- [State of ATS 2026](https://withresumeai.com/reports/state-of-ats-2026) — 738 large employers, 704 portal-verified; Workday share 37.9% ([dataset](https://github.com/Kayvan-Zahiri/state-of-ats-2026))  
 - Resume formatting best practices  
 - Keyword optimization techniques  
 - Behavioral interview preparation  
