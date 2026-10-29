@@ -49,6 +49,7 @@ Features:
 
 ## Recommended Resources
 
+- [JobEmerge](https://www.jobemerge.work) — Checks resume fit against job descriptions and includes Markdown resume editing, translation previews, application tracking, and text mock interviews.
 - Resume formatting best practices  
 - Keyword optimization techniques  
 - Behavioral interview preparation  
